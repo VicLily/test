@@ -1,4 +1,5 @@
 <?php
-int a=0;
- echo "hello world!";
+int a=3;
+int b=3;
+echo "hello world!";
 ?>
