@@ -1,5 +1,5 @@
 <?php
-int a=5;
+int a=66;
 int b=1;
 echo "hello world!";
 ?>
