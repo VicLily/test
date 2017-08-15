@@ -1,3 +1,3 @@
 <?php
-int x=6;
+int x=5;
 ?>
