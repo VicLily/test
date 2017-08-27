@@ -1,5 +1,4 @@
 <?php
-int y=20;
-int a=0;
-int b=0;
+int y=1;
+int a=1;
 ?>
