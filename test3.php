@@ -1,3 +1,5 @@
 <?php
-int b=1;
+int y=20;
+int a=0;
+int b=0;
 ?>
