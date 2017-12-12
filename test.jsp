@@ -1,5 +1,6 @@
 a=0;
 b=3;
 aa
-bb
+bb d2
 cc
+dd2
