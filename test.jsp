@@ -1,4 +1,4 @@
-a=2;
-b=2;
-b=2;
-from a2
+resolve conflict from a2
+a=a3;
+b=a3;
+b=a3;
