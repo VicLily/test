@@ -1,4 +1,4 @@
 <?PHP
-int a=x;
-int b=x;
+int a=Y;
+int b=Y;
 ?>
